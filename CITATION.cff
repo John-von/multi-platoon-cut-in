@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying manuscript when using this software."
+title: "Robust Allocation and Admission for Simultaneous Cut-Ins of Multiple Vehicles into Multiple Platoons under Parameter Uncertainty"
+type: software
+version: 1.0.0
+date-released: 2026-10-29
+repository-code: "https://github.com/John-von/multi-platoon-cut-in"
+authors:
+  - family-names: Wen
+    given-names: Qiang
+  - family-names: Wang
+    given-names: Zhengwu
+  - family-names: Chen
+    given-names: Tao
+  - family-names: Li
+    given-names: Jiazheng

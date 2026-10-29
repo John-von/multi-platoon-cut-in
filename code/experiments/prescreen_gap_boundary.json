@@ -1,0 +1,312 @@
+[
+ {
+  "gap": 10.2,
+  "boundary": 30,
+  "ell": 0,
+  "initial_T": null,
+  "initial_reasons": [
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube"
+  ],
+  "t0_merge_T": null,
+  "merge_reasons": []
+ },
+ {
+  "gap": 10.2,
+  "boundary": 30,
+  "ell": 5,
+  "initial_T": null,
+  "initial_reasons": [
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube"
+  ],
+  "t0_merge_T": null,
+  "merge_reasons": []
+ },
+ {
+  "gap": 10.25,
+  "boundary": 30,
+  "ell": 0,
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "t0_merge_T": 30,
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "accepted"
+  ]
+ },
+ {
+  "gap": 10.25,
+  "boundary": 30,
+  "ell": 5,
+  "initial_T": null,
+  "initial_reasons": [
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube"
+  ],
+  "t0_merge_T": null,
+  "merge_reasons": []
+ },
+ {
+  "gap": 10.3,
+  "boundary": 30,
+  "ell": 0,
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "t0_merge_T": 24,
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "accepted"
+  ]
+ },
+ {
+  "gap": 10.3,
+  "boundary": 30,
+  "ell": 5,
+  "initial_T": null,
+  "initial_reasons": [
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube"
+  ],
+  "t0_merge_T": null,
+  "merge_reasons": []
+ },
+ {
+  "gap": 10.5,
+  "boundary": 30,
+  "ell": 0,
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "t0_merge_T": 16,
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "accepted"
+  ]
+ },
+ {
+  "gap": 10.5,
+  "boundary": 30,
+  "ell": 5,
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "t0_merge_T": 18,
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "ordinary_gap_tube",
+   "accepted"
+  ]
+ },
+ {
+  "gap": 11,
+  "boundary": 30,
+  "ell": 0,
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "t0_merge_T": 14,
+  "merge_reasons": [
+   "joint_allocation",
+   "accepted"
+  ]
+ },
+ {
+  "gap": 11,
+  "boundary": 30,
+  "ell": 5,
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "t0_merge_T": 14,
+  "merge_reasons": [
+   "joint_allocation",
+   "accepted"
+  ]
+ },
+ {
+  "gap": 12,
+  "boundary": 30,
+  "ell": 0,
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "t0_merge_T": 12,
+  "merge_reasons": [
+   "accepted"
+  ]
+ },
+ {
+  "gap": 12,
+  "boundary": 30,
+  "ell": 5,
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "t0_merge_T": 12,
+  "merge_reasons": [
+   "accepted"
+  ]
+ },
+ {
+  "gap": 10.5,
+  "boundary": 18,
+  "ell": 0,
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "t0_merge_T": null,
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "joint_allocation",
+   "joint_allocation",
+   "joint_allocation",
+   "joint_allocation",
+   "joint_allocation",
+   "joint_allocation",
+   "joint_allocation",
+   "joint_allocation",
+   "joint_allocation"
+  ]
+ },
+ {
+  "gap": 10.5,
+  "boundary": 18,
+  "ell": 5,
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "t0_merge_T": null,
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "joint_allocation",
+   "joint_allocation",
+   "joint_allocation",
+   "joint_allocation",
+   "joint_allocation",
+   "joint_allocation",
+   "joint_allocation",
+   "joint_allocation",
+   "joint_allocation"
+  ]
+ },
+ {
+  "gap": 10.5,
+  "boundary": 24,
+  "ell": 0,
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "t0_merge_T": null,
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "joint_allocation",
+   "joint_allocation",
+   "joint_allocation",
+   "joint_allocation",
+   "joint_allocation",
+   "joint_allocation",
+   "joint_allocation",
+   "joint_allocation",
+   "joint_allocation"
+  ]
+ },
+ {
+  "gap": 10.5,
+  "boundary": 24,
+  "ell": 5,
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "t0_merge_T": null,
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "joint_allocation",
+   "joint_allocation",
+   "joint_allocation",
+   "joint_allocation",
+   "joint_allocation",
+   "joint_allocation",
+   "joint_allocation",
+   "joint_allocation",
+   "joint_allocation"
+  ]
+ },
+ {
+  "gap": 10.5,
+  "boundary": 26,
+  "ell": 0,
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "t0_merge_T": 18,
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "joint_allocation",
+   "accepted"
+  ]
+ },
+ {
+  "gap": 10.5,
+  "boundary": 26,
+  "ell": 5,
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "t0_merge_T": 18,
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "joint_allocation",
+   "accepted"
+  ]
+ }
+]

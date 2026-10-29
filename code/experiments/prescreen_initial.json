@@ -1,0 +1,386 @@
+[
+ {
+  "s": 1,
+  "ell": 0,
+  "initial_T": 12,
+  "initial_last_reason": null
+ },
+ {
+  "s": 1,
+  "ell": 1,
+  "initial_T": 12,
+  "initial_last_reason": null
+ },
+ {
+  "s": 1,
+  "ell": 2,
+  "initial_T": 12,
+  "initial_last_reason": null
+ },
+ {
+  "s": 1,
+  "ell": 5,
+  "initial_T": 12,
+  "initial_last_reason": null
+ },
+ {
+  "s": 1,
+  "ell": 7,
+  "initial_T": 12,
+  "initial_last_reason": null
+ },
+ {
+  "s": 1,
+  "ell": 10,
+  "initial_T": 12,
+  "initial_last_reason": null
+ },
+ {
+  "s": 1,
+  "ell": 15,
+  "initial_T": null,
+  "initial_last_reason": "ordinary_gap_tube"
+ },
+ {
+  "s": 1,
+  "ell": 20,
+  "initial_T": null,
+  "initial_last_reason": "ordinary_gap_tube"
+ },
+ {
+  "s": 2,
+  "ell": 0,
+  "initial_T": 12,
+  "initial_last_reason": null
+ },
+ {
+  "s": 2,
+  "ell": 1,
+  "initial_T": 12,
+  "initial_last_reason": null
+ },
+ {
+  "s": 2,
+  "ell": 2,
+  "initial_T": 12,
+  "initial_last_reason": null
+ },
+ {
+  "s": 2,
+  "ell": 5,
+  "initial_T": 12,
+  "initial_last_reason": null
+ },
+ {
+  "s": 2,
+  "ell": 7,
+  "initial_T": 12,
+  "initial_last_reason": null
+ },
+ {
+  "s": 2,
+  "ell": 10,
+  "initial_T": 12,
+  "initial_last_reason": null
+ },
+ {
+  "s": 2,
+  "ell": 15,
+  "initial_T": null,
+  "initial_last_reason": "ordinary_gap_tube"
+ },
+ {
+  "s": 2,
+  "ell": 20,
+  "initial_T": null,
+  "initial_last_reason": "ordinary_gap_tube"
+ },
+ {
+  "s": 3,
+  "ell": 0,
+  "initial_T": 12,
+  "initial_last_reason": null
+ },
+ {
+  "s": 3,
+  "ell": 1,
+  "initial_T": 12,
+  "initial_last_reason": null
+ },
+ {
+  "s": 3,
+  "ell": 2,
+  "initial_T": 12,
+  "initial_last_reason": null
+ },
+ {
+  "s": 3,
+  "ell": 5,
+  "initial_T": 12,
+  "initial_last_reason": null
+ },
+ {
+  "s": 3,
+  "ell": 7,
+  "initial_T": 12,
+  "initial_last_reason": null
+ },
+ {
+  "s": 3,
+  "ell": 10,
+  "initial_T": 12,
+  "initial_last_reason": null
+ },
+ {
+  "s": 3,
+  "ell": 15,
+  "initial_T": null,
+  "initial_last_reason": "ordinary_gap_tube"
+ },
+ {
+  "s": 3,
+  "ell": 20,
+  "initial_T": null,
+  "initial_last_reason": "ordinary_gap_tube"
+ },
+ {
+  "s": 5,
+  "ell": 0,
+  "initial_T": 12,
+  "initial_last_reason": null
+ },
+ {
+  "s": 5,
+  "ell": 1,
+  "initial_T": 12,
+  "initial_last_reason": null
+ },
+ {
+  "s": 5,
+  "ell": 2,
+  "initial_T": 12,
+  "initial_last_reason": null
+ },
+ {
+  "s": 5,
+  "ell": 5,
+  "initial_T": 12,
+  "initial_last_reason": null
+ },
+ {
+  "s": 5,
+  "ell": 7,
+  "initial_T": 12,
+  "initial_last_reason": null
+ },
+ {
+  "s": 5,
+  "ell": 10,
+  "initial_T": null,
+  "initial_last_reason": "ordinary_gap_tube"
+ },
+ {
+  "s": 5,
+  "ell": 15,
+  "initial_T": null,
+  "initial_last_reason": "ordinary_gap_tube"
+ },
+ {
+  "s": 5,
+  "ell": 20,
+  "initial_T": null,
+  "initial_last_reason": "ordinary_gap_tube"
+ },
+ {
+  "s": 7,
+  "ell": 0,
+  "initial_T": 12,
+  "initial_last_reason": null
+ },
+ {
+  "s": 7,
+  "ell": 1,
+  "initial_T": 12,
+  "initial_last_reason": null
+ },
+ {
+  "s": 7,
+  "ell": 2,
+  "initial_T": 12,
+  "initial_last_reason": null
+ },
+ {
+  "s": 7,
+  "ell": 5,
+  "initial_T": 12,
+  "initial_last_reason": null
+ },
+ {
+  "s": 7,
+  "ell": 7,
+  "initial_T": null,
+  "initial_last_reason": "ordinary_gap_tube"
+ },
+ {
+  "s": 7,
+  "ell": 10,
+  "initial_T": null,
+  "initial_last_reason": "ordinary_gap_tube"
+ },
+ {
+  "s": 7,
+  "ell": 15,
+  "initial_T": null,
+  "initial_last_reason": "ordinary_gap_tube"
+ },
+ {
+  "s": 7,
+  "ell": 20,
+  "initial_T": null,
+  "initial_last_reason": "ordinary_gap_tube"
+ },
+ {
+  "s": 10,
+  "ell": 0,
+  "initial_T": 12,
+  "initial_last_reason": null
+ },
+ {
+  "s": 10,
+  "ell": 1,
+  "initial_T": null,
+  "initial_last_reason": "ordinary_gap_tube"
+ },
+ {
+  "s": 10,
+  "ell": 2,
+  "initial_T": null,
+  "initial_last_reason": "ordinary_gap_tube"
+ },
+ {
+  "s": 10,
+  "ell": 5,
+  "initial_T": null,
+  "initial_last_reason": "ordinary_gap_tube"
+ },
+ {
+  "s": 10,
+  "ell": 7,
+  "initial_T": null,
+  "initial_last_reason": "ordinary_gap_tube"
+ },
+ {
+  "s": 10,
+  "ell": 10,
+  "initial_T": null,
+  "initial_last_reason": "ordinary_gap_tube"
+ },
+ {
+  "s": 10,
+  "ell": 15,
+  "initial_T": null,
+  "initial_last_reason": "ordinary_gap_tube"
+ },
+ {
+  "s": 10,
+  "ell": 20,
+  "initial_T": null,
+  "initial_last_reason": "ordinary_gap_tube"
+ },
+ {
+  "s": 12,
+  "ell": 0,
+  "initial_T": null,
+  "initial_last_reason": "ordinary_gap_tube"
+ },
+ {
+  "s": 12,
+  "ell": 1,
+  "initial_T": null,
+  "initial_last_reason": "ordinary_gap_tube"
+ },
+ {
+  "s": 12,
+  "ell": 2,
+  "initial_T": null,
+  "initial_last_reason": "ordinary_gap_tube"
+ },
+ {
+  "s": 12,
+  "ell": 5,
+  "initial_T": null,
+  "initial_last_reason": "ordinary_gap_tube"
+ },
+ {
+  "s": 12,
+  "ell": 7,
+  "initial_T": null,
+  "initial_last_reason": "ordinary_gap_tube"
+ },
+ {
+  "s": 12,
+  "ell": 10,
+  "initial_T": null,
+  "initial_last_reason": "ordinary_gap_tube"
+ },
+ {
+  "s": 12,
+  "ell": 15,
+  "initial_T": null,
+  "initial_last_reason": "ordinary_gap_tube"
+ },
+ {
+  "s": 12,
+  "ell": 20,
+  "initial_T": null,
+  "initial_last_reason": "trajectory_constraints"
+ },
+ {
+  "s": 15,
+  "ell": 0,
+  "initial_T": null,
+  "initial_last_reason": "ordinary_gap_tube"
+ },
+ {
+  "s": 15,
+  "ell": 1,
+  "initial_T": null,
+  "initial_last_reason": "ordinary_gap_tube"
+ },
+ {
+  "s": 15,
+  "ell": 2,
+  "initial_T": null,
+  "initial_last_reason": "ordinary_gap_tube"
+ },
+ {
+  "s": 15,
+  "ell": 5,
+  "initial_T": null,
+  "initial_last_reason": "ordinary_gap_tube"
+ },
+ {
+  "s": 15,
+  "ell": 7,
+  "initial_T": null,
+  "initial_last_reason": "ordinary_gap_tube"
+ },
+ {
+  "s": 15,
+  "ell": 10,
+  "initial_T": null,
+  "initial_last_reason": "ordinary_gap_tube"
+ },
+ {
+  "s": 15,
+  "ell": 15,
+  "initial_T": null,
+  "initial_last_reason": "trajectory_constraints"
+ },
+ {
+  "s": 15,
+  "ell": 20,
+  "initial_T": null,
+  "initial_last_reason": "trajectory_constraints"
+ }
+]

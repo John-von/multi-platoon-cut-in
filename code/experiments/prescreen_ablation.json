@@ -1,0 +1,1239 @@
+[
+ {
+  "cell": "C1",
+  "variant": "V0",
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "merge_T": 16,
+  "gates": [
+   108,
+   106,
+   108
+  ],
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C1",
+  "variant": "V1",
+  "initial_T": 26,
+  "initial_reasons": [
+   "trajectory_constraints",
+   "trajectory_constraints",
+   "accepted"
+  ],
+  "merge_T": 26,
+  "gates": [
+   184,
+   167,
+   186
+  ],
+  "merge_reasons": [
+   "capacity_zero",
+   "capacity_zero",
+   "capacity_zero",
+   "capacity_zero",
+   "capacity_zero",
+   "capacity_zero",
+   "capacity_zero",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C1",
+  "variant": "V2",
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "merge_T": 16,
+  "gates": [
+   108,
+   106,
+   108
+  ],
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C1",
+  "variant": "V7",
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "merge_T": 16,
+  "gates": [
+   108,
+   106,
+   108
+  ],
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C1",
+  "variant": "V8",
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "merge_T": 16,
+  "gates": [
+   108,
+   106,
+   108
+  ],
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C1",
+  "variant": "V9",
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "merge_T": 16,
+  "gates": [
+   108,
+   106,
+   108
+  ],
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C2",
+  "variant": "V0",
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "merge_T": 18,
+  "gates": [
+   122,
+   117,
+   124
+  ],
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "joint_allocation",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C2",
+  "variant": "V1",
+  "initial_T": 26,
+  "initial_reasons": [
+   "trajectory_constraints",
+   "trajectory_constraints",
+   "accepted"
+  ],
+  "merge_T": 28,
+  "gates": [
+   200,
+   180,
+   203
+  ],
+  "merge_reasons": [
+   "capacity_zero",
+   "capacity_zero",
+   "capacity_zero",
+   "capacity_zero",
+   "capacity_zero",
+   "capacity_zero",
+   "capacity_zero",
+   "joint_allocation",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C2",
+  "variant": "V2",
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "merge_T": 18,
+  "gates": [
+   122,
+   117,
+   124
+  ],
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "joint_allocation",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C2",
+  "variant": "V7",
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "merge_T": 18,
+  "gates": [
+   122,
+   117,
+   124
+  ],
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "joint_allocation",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C2",
+  "variant": "V8",
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "merge_T": 18,
+  "gates": [
+   122,
+   117,
+   124
+  ],
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "joint_allocation",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C2",
+  "variant": "V9",
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "merge_T": 18,
+  "gates": [
+   122,
+   117,
+   124
+  ],
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "joint_allocation",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C3",
+  "variant": "V0",
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "merge_T": 24,
+  "gates": [
+   168,
+   155,
+   171
+  ],
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C3",
+  "variant": "V1",
+  "initial_T": 26,
+  "initial_reasons": [
+   "trajectory_constraints",
+   "trajectory_constraints",
+   "accepted"
+  ],
+  "merge_T": 26,
+  "gates": [
+   184,
+   168,
+   187
+  ],
+  "merge_reasons": [
+   "capacity_zero",
+   "capacity_zero",
+   "capacity_zero",
+   "capacity_zero",
+   "capacity_zero",
+   "capacity_zero",
+   "capacity_zero",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C3",
+  "variant": "V2",
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "merge_T": 24,
+  "gates": [
+   168,
+   155,
+   171
+  ],
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C3",
+  "variant": "V7",
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "merge_T": 24,
+  "gates": [
+   168,
+   155,
+   171
+  ],
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C3",
+  "variant": "V8",
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "merge_T": 24,
+  "gates": [
+   168,
+   155,
+   171
+  ],
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C3",
+  "variant": "V9",
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "merge_T": 24,
+  "gates": [
+   168,
+   155,
+   171
+  ],
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C4",
+  "variant": "V0",
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "merge_T": 16,
+  "gates": [
+   108,
+   106,
+   108
+  ],
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C4",
+  "variant": "V1",
+  "initial_T": 26,
+  "initial_reasons": [
+   "trajectory_constraints",
+   "trajectory_constraints",
+   "accepted"
+  ],
+  "merge_T": 26,
+  "gates": [
+   184,
+   167,
+   186
+  ],
+  "merge_reasons": [
+   "capacity_zero",
+   "capacity_zero",
+   "capacity_zero",
+   "capacity_zero",
+   "capacity_zero",
+   "capacity_zero",
+   "capacity_zero",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C4",
+  "variant": "V2",
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "merge_T": 16,
+  "gates": [
+   108,
+   106,
+   108
+  ],
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C4",
+  "variant": "V7",
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "merge_T": 16,
+  "gates": [
+   108,
+   106,
+   108
+  ],
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C4",
+  "variant": "V8",
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "merge_T": 16,
+  "gates": [
+   108,
+   106,
+   108
+  ],
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C4",
+  "variant": "V9",
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "merge_T": 16,
+  "gates": [
+   108,
+   106,
+   108
+  ],
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C5",
+  "variant": "V0",
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "merge_T": 18,
+  "gates": [
+   123,
+   119,
+   124
+  ],
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "ordinary_gap_tube",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C5",
+  "variant": "V1",
+  "initial_T": null,
+  "initial_reasons": [
+   "trajectory_constraints",
+   "trajectory_constraints",
+   "trajectory_constraints",
+   "trajectory_constraints",
+   "trajectory_constraints"
+  ],
+  "merge_T": null,
+  "gates": null,
+  "merge_reasons": []
+ },
+ {
+  "cell": "C5",
+  "variant": "V2",
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "merge_T": 18,
+  "gates": [
+   123,
+   119,
+   124
+  ],
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "ordinary_gap_tube",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C5",
+  "variant": "V7",
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "merge_T": 18,
+  "gates": [
+   123,
+   119,
+   124
+  ],
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "ordinary_gap_tube",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C5",
+  "variant": "V8",
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "merge_T": 18,
+  "gates": [
+   123,
+   119,
+   124
+  ],
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "ordinary_gap_tube",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C5",
+  "variant": "V9",
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "merge_T": 18,
+  "gates": [
+   123,
+   119,
+   124
+  ],
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "ordinary_gap_tube",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C6",
+  "variant": "V0",
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "merge_T": 18,
+  "gates": [
+   124,
+   119,
+   124
+  ],
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "ordinary_gap_tube",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C6",
+  "variant": "V1",
+  "initial_T": null,
+  "initial_reasons": [
+   "trajectory_constraints",
+   "trajectory_constraints",
+   "trajectory_constraints",
+   "trajectory_constraints",
+   "trajectory_constraints"
+  ],
+  "merge_T": null,
+  "gates": null,
+  "merge_reasons": []
+ },
+ {
+  "cell": "C6",
+  "variant": "V2",
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "merge_T": 18,
+  "gates": [
+   124,
+   119,
+   124
+  ],
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "ordinary_gap_tube",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C6",
+  "variant": "V7",
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "merge_T": 18,
+  "gates": [
+   124,
+   119,
+   124
+  ],
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "ordinary_gap_tube",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C6",
+  "variant": "V8",
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "merge_T": 18,
+  "gates": [
+   124,
+   119,
+   124
+  ],
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "ordinary_gap_tube",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C6",
+  "variant": "V9",
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "merge_T": 18,
+  "gates": [
+   124,
+   119,
+   124
+  ],
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "ordinary_gap_tube",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C7",
+  "variant": "V0",
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "merge_T": 22,
+  "gates": [
+   156,
+   147,
+   158
+  ],
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C7",
+  "variant": "V1",
+  "initial_T": null,
+  "initial_reasons": [
+   "trajectory_constraints",
+   "trajectory_constraints",
+   "trajectory_constraints",
+   "trajectory_constraints",
+   "trajectory_constraints"
+  ],
+  "merge_T": null,
+  "gates": null,
+  "merge_reasons": []
+ },
+ {
+  "cell": "C7",
+  "variant": "V2",
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "merge_T": 22,
+  "gates": [
+   156,
+   147,
+   158
+  ],
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C7",
+  "variant": "V7",
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "merge_T": 22,
+  "gates": [
+   156,
+   147,
+   158
+  ],
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C7",
+  "variant": "V8",
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "merge_T": 22,
+  "gates": [
+   156,
+   147,
+   158
+  ],
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C7",
+  "variant": "V9",
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "merge_T": 22,
+  "gates": [
+   156,
+   147,
+   158
+  ],
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C8",
+  "variant": "V0",
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "merge_T": 24,
+  "gates": [
+   173,
+   161,
+   175
+  ],
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "joint_allocation",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C8",
+  "variant": "V1",
+  "initial_T": null,
+  "initial_reasons": [
+   "trajectory_constraints",
+   "trajectory_constraints",
+   "trajectory_constraints",
+   "trajectory_constraints",
+   "trajectory_constraints"
+  ],
+  "merge_T": null,
+  "gates": null,
+  "merge_reasons": []
+ },
+ {
+  "cell": "C8",
+  "variant": "V2",
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "merge_T": 24,
+  "gates": [
+   173,
+   161,
+   175
+  ],
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "joint_allocation",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C8",
+  "variant": "V7",
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "merge_T": 24,
+  "gates": [
+   173,
+   161,
+   175
+  ],
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "joint_allocation",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C8",
+  "variant": "V8",
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "merge_T": 24,
+  "gates": [
+   173,
+   161,
+   175
+  ],
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "joint_allocation",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C8",
+  "variant": "V9",
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "merge_T": 24,
+  "gates": [
+   173,
+   161,
+   175
+  ],
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "joint_allocation",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "ordinary_gap_tube",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C9",
+  "variant": "V0",
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "merge_T": 16,
+  "gates": [
+   108,
+   106,
+   108
+  ],
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C9",
+  "variant": "V1",
+  "initial_T": 26,
+  "initial_reasons": [
+   "trajectory_constraints",
+   "trajectory_constraints",
+   "accepted"
+  ],
+  "merge_T": 26,
+  "gates": [
+   184,
+   167,
+   186
+  ],
+  "merge_reasons": [
+   "capacity_zero",
+   "capacity_zero",
+   "capacity_zero",
+   "capacity_zero",
+   "capacity_zero",
+   "capacity_zero",
+   "capacity_zero",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C9",
+  "variant": "V2",
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "merge_T": 16,
+  "gates": [
+   108,
+   106,
+   108
+  ],
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C9",
+  "variant": "V7",
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "merge_T": 16,
+  "gates": [
+   108,
+   106,
+   108
+  ],
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C9",
+  "variant": "V8",
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "merge_T": 16,
+  "gates": [
+   108,
+   106,
+   108
+  ],
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C9",
+  "variant": "V9",
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "merge_T": 16,
+  "gates": [
+   108,
+   106,
+   108
+  ],
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C10",
+  "variant": "V0",
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "merge_T": 16,
+  "gates": [
+   108,
+   106,
+   108
+  ],
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C10",
+  "variant": "V1",
+  "initial_T": 26,
+  "initial_reasons": [
+   "trajectory_constraints",
+   "trajectory_constraints",
+   "accepted"
+  ],
+  "merge_T": 26,
+  "gates": [
+   184,
+   167,
+   186
+  ],
+  "merge_reasons": [
+   "capacity_zero",
+   "capacity_zero",
+   "capacity_zero",
+   "capacity_zero",
+   "capacity_zero",
+   "capacity_zero",
+   "capacity_zero",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C10",
+  "variant": "V2",
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "merge_T": 16,
+  "gates": [
+   108,
+   106,
+   108
+  ],
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C10",
+  "variant": "V7",
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "merge_T": 16,
+  "gates": [
+   108,
+   106,
+   108
+  ],
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C10",
+  "variant": "V8",
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "merge_T": 16,
+  "gates": [
+   108,
+   106,
+   108
+  ],
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "accepted"
+  ]
+ },
+ {
+  "cell": "C10",
+  "variant": "V9",
+  "initial_T": 12,
+  "initial_reasons": [
+   "accepted"
+  ],
+  "merge_T": 16,
+  "gates": [
+   108,
+   106,
+   108
+  ],
+  "merge_reasons": [
+   "joint_allocation",
+   "joint_allocation",
+   "accepted"
+  ]
+ }
+]

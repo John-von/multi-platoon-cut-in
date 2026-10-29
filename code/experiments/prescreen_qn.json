@@ -1,0 +1,488 @@
+{
+ "rows": [
+  {
+   "family": "supplied_synthetic",
+   "geometry": "Q2",
+   "queue_sizes": [
+    8,
+    7
+   ],
+   "N": 15,
+   "Q": 2,
+   "M": 17,
+   "chain_margin_b30": 10.48,
+   "necessary_condition_b30": true,
+   "lp_feasible_b30": true,
+   "chain_margin_at_restore": 10.48,
+   "min_boundary_lp_feasible": 30.0,
+   "initial_T_b30_probe": 12,
+   "initial_last_reason_b30": null
+  },
+  {
+   "family": "supplied_synthetic",
+   "geometry": "Q3",
+   "queue_sizes": [
+    8,
+    7,
+    7
+   ],
+   "N": 22,
+   "Q": 3,
+   "M": 25,
+   "chain_margin_b30": 7.48,
+   "necessary_condition_b30": true,
+   "lp_feasible_b30": true,
+   "chain_margin_at_restore": 7.48,
+   "min_boundary_lp_feasible": 30.0,
+   "initial_T_b30_probe": 12,
+   "initial_last_reason_b30": null
+  },
+  {
+   "family": "supplied_synthetic",
+   "geometry": "Q4",
+   "queue_sizes": [
+    8,
+    7,
+    7,
+    7
+   ],
+   "N": 29,
+   "Q": 4,
+   "M": 33,
+   "chain_margin_b30": 4.48,
+   "necessary_condition_b30": true,
+   "lp_feasible_b30": true,
+   "chain_margin_at_restore": 4.48,
+   "min_boundary_lp_feasible": 30.0,
+   "initial_T_b30_probe": 20,
+   "initial_last_reason_b30": null
+  },
+  {
+   "family": "supplied_synthetic",
+   "geometry": "Q5",
+   "queue_sizes": [
+    8,
+    7,
+    7,
+    7,
+    7
+   ],
+   "N": 36,
+   "Q": 5,
+   "M": 41,
+   "chain_margin_b30": 1.48,
+   "necessary_condition_b30": true,
+   "lp_feasible_b30": true,
+   "chain_margin_at_restore": 1.48,
+   "min_boundary_lp_feasible": 30.0,
+   "initial_T_b30_probe": 26,
+   "initial_last_reason_b30": null
+  },
+  {
+   "family": "supplied_synthetic",
+   "geometry": "Q6",
+   "queue_sizes": [
+    8,
+    7,
+    7,
+    7,
+    7,
+    7
+   ],
+   "N": 43,
+   "Q": 6,
+   "M": 49,
+   "chain_margin_b30": -1.52,
+   "necessary_condition_b30": false,
+   "lp_feasible_b30": false,
+   "chain_margin_at_restore": 8.48,
+   "min_boundary_lp_feasible": 32.0,
+   "initial_T_b30_probe": 36,
+   "initial_last_reason_b30": null,
+   "initial_T_restore_probe": 36
+  },
+  {
+   "family": "supplied_synthetic",
+   "geometry": "N_x1p5",
+   "queue_sizes": [
+    12,
+    10,
+    10
+   ],
+   "N": 32,
+   "Q": 3,
+   "M": 35,
+   "chain_margin_b30": -1.52,
+   "necessary_condition_b30": false,
+   "lp_feasible_b30": false,
+   "chain_margin_at_restore": 2.48,
+   "min_boundary_lp_feasible": 32.0,
+   "initial_T_b30_probe": 12,
+   "initial_last_reason_b30": null,
+   "initial_T_restore_probe": 12
+  },
+  {
+   "family": "supplied_synthetic",
+   "geometry": "N_x2",
+   "queue_sizes": [
+    16,
+    14,
+    14
+   ],
+   "N": 44,
+   "Q": 3,
+   "M": 47,
+   "chain_margin_b30": -13.52,
+   "necessary_condition_b30": false,
+   "lp_feasible_b30": false,
+   "chain_margin_at_restore": 2.48,
+   "min_boundary_lp_feasible": 38.0,
+   "initial_T_b30_probe": 12,
+   "initial_last_reason_b30": null,
+   "initial_T_restore_probe": 12
+  },
+  {
+   "family": "supplied_synthetic",
+   "geometry": "N_x3",
+   "queue_sizes": [
+    24,
+    21,
+    21
+   ],
+   "N": 66,
+   "Q": 3,
+   "M": 69,
+   "chain_margin_b30": -36.02,
+   "necessary_condition_b30": false,
+   "lp_feasible_b30": false,
+   "chain_margin_at_restore": 3.98,
+   "min_boundary_lp_feasible": 50.0,
+   "initial_T_b30_probe": 12,
+   "initial_last_reason_b30": null,
+   "initial_T_restore_probe": 12
+  },
+  {
+   "family": "bounded_speed_synthetic",
+   "geometry": "Q2",
+   "queue_sizes": [
+    8,
+    7
+   ],
+   "N": 15,
+   "Q": 2,
+   "M": 17,
+   "chain_margin_b30": 10.48,
+   "necessary_condition_b30": true,
+   "lp_feasible_b30": true,
+   "chain_margin_at_restore": 10.48,
+   "min_boundary_lp_feasible": 30.0,
+   "initial_T_b30_probe": 12,
+   "initial_last_reason_b30": null
+  },
+  {
+   "family": "bounded_speed_synthetic",
+   "geometry": "Q3",
+   "queue_sizes": [
+    8,
+    7,
+    7
+   ],
+   "N": 22,
+   "Q": 3,
+   "M": 25,
+   "chain_margin_b30": 7.48,
+   "necessary_condition_b30": true,
+   "lp_feasible_b30": true,
+   "chain_margin_at_restore": 7.48,
+   "min_boundary_lp_feasible": 30.0,
+   "initial_T_b30_probe": 12,
+   "initial_last_reason_b30": null
+  },
+  {
+   "family": "bounded_speed_synthetic",
+   "geometry": "Q4",
+   "queue_sizes": [
+    8,
+    7,
+    7,
+    7
+   ],
+   "N": 29,
+   "Q": 4,
+   "M": 33,
+   "chain_margin_b30": 4.48,
+   "necessary_condition_b30": true,
+   "lp_feasible_b30": true,
+   "chain_margin_at_restore": 4.48,
+   "min_boundary_lp_feasible": 30.0,
+   "initial_T_b30_probe": 12,
+   "initial_last_reason_b30": null
+  },
+  {
+   "family": "bounded_speed_synthetic",
+   "geometry": "Q5",
+   "queue_sizes": [
+    8,
+    7,
+    7,
+    7,
+    7
+   ],
+   "N": 36,
+   "Q": 5,
+   "M": 41,
+   "chain_margin_b30": 1.48,
+   "necessary_condition_b30": true,
+   "lp_feasible_b30": true,
+   "chain_margin_at_restore": 1.48,
+   "min_boundary_lp_feasible": 30.0,
+   "initial_T_b30_probe": 12,
+   "initial_last_reason_b30": null
+  },
+  {
+   "family": "bounded_speed_synthetic",
+   "geometry": "Q6",
+   "queue_sizes": [
+    8,
+    7,
+    7,
+    7,
+    7,
+    7
+   ],
+   "N": 43,
+   "Q": 6,
+   "M": 49,
+   "chain_margin_b30": -1.52,
+   "necessary_condition_b30": false,
+   "lp_feasible_b30": false,
+   "chain_margin_at_restore": 8.48,
+   "min_boundary_lp_feasible": 32.0,
+   "initial_T_b30_probe": 12,
+   "initial_last_reason_b30": null,
+   "initial_T_restore_probe": 12
+  },
+  {
+   "family": "bounded_speed_synthetic",
+   "geometry": "N_x1p5",
+   "queue_sizes": [
+    12,
+    10,
+    10
+   ],
+   "N": 32,
+   "Q": 3,
+   "M": 35,
+   "chain_margin_b30": -1.52,
+   "necessary_condition_b30": false,
+   "lp_feasible_b30": false,
+   "chain_margin_at_restore": 2.48,
+   "min_boundary_lp_feasible": 32.0,
+   "initial_T_b30_probe": 12,
+   "initial_last_reason_b30": null,
+   "initial_T_restore_probe": 12
+  },
+  {
+   "family": "bounded_speed_synthetic",
+   "geometry": "N_x2",
+   "queue_sizes": [
+    16,
+    14,
+    14
+   ],
+   "N": 44,
+   "Q": 3,
+   "M": 47,
+   "chain_margin_b30": -13.52,
+   "necessary_condition_b30": false,
+   "lp_feasible_b30": false,
+   "chain_margin_at_restore": 2.48,
+   "min_boundary_lp_feasible": 38.0,
+   "initial_T_b30_probe": 12,
+   "initial_last_reason_b30": null,
+   "initial_T_restore_probe": 12
+  },
+  {
+   "family": "bounded_speed_synthetic",
+   "geometry": "N_x3",
+   "queue_sizes": [
+    24,
+    21,
+    21
+   ],
+   "N": 66,
+   "Q": 3,
+   "M": 69,
+   "chain_margin_b30": -36.02,
+   "necessary_condition_b30": false,
+   "lp_feasible_b30": false,
+   "chain_margin_at_restore": 3.98,
+   "min_boundary_lp_feasible": 50.0,
+   "initial_T_b30_probe": 12,
+   "initial_last_reason_b30": null,
+   "initial_T_restore_probe": 12
+  },
+  {
+   "family": "stage1_template",
+   "geometry": "Q2",
+   "queue_sizes": [
+    8,
+    7
+   ],
+   "N": 15,
+   "Q": 2,
+   "M": 17,
+   "chain_margin_b30": 11.98,
+   "necessary_condition_b30": true,
+   "lp_feasible_b30": true,
+   "chain_margin_at_restore": 11.98,
+   "min_boundary_lp_feasible": 30.0,
+   "initial_T_b30_probe": 12,
+   "initial_last_reason_b30": null
+  },
+  {
+   "family": "stage1_template",
+   "geometry": "Q3",
+   "queue_sizes": [
+    8,
+    7,
+    7
+   ],
+   "N": 22,
+   "Q": 3,
+   "M": 25,
+   "chain_margin_b30": 8.98,
+   "necessary_condition_b30": true,
+   "lp_feasible_b30": true,
+   "chain_margin_at_restore": 8.98,
+   "min_boundary_lp_feasible": 30.0,
+   "initial_T_b30_probe": 12,
+   "initial_last_reason_b30": null
+  },
+  {
+   "family": "stage1_template",
+   "geometry": "Q4",
+   "queue_sizes": [
+    8,
+    7,
+    7,
+    7
+   ],
+   "N": 29,
+   "Q": 4,
+   "M": 33,
+   "chain_margin_b30": 4.48,
+   "necessary_condition_b30": true,
+   "lp_feasible_b30": true,
+   "chain_margin_at_restore": 4.48,
+   "min_boundary_lp_feasible": 30.0,
+   "initial_T_b30_probe": 12,
+   "initial_last_reason_b30": null
+  },
+  {
+   "family": "stage1_template",
+   "geometry": "Q5",
+   "queue_sizes": [
+    8,
+    7,
+    7,
+    7,
+    7
+   ],
+   "N": 36,
+   "Q": 5,
+   "M": 41,
+   "chain_margin_b30": 2.98,
+   "necessary_condition_b30": true,
+   "lp_feasible_b30": true,
+   "chain_margin_at_restore": 2.98,
+   "min_boundary_lp_feasible": 30.0,
+   "initial_T_b30_probe": 12,
+   "initial_last_reason_b30": null
+  },
+  {
+   "family": "stage1_template",
+   "geometry": "Q6",
+   "queue_sizes": [
+    8,
+    7,
+    7,
+    7,
+    7,
+    7
+   ],
+   "N": 43,
+   "Q": 6,
+   "M": 49,
+   "chain_margin_b30": -0.02,
+   "necessary_condition_b30": false,
+   "lp_feasible_b30": false,
+   "chain_margin_at_restore": 9.48,
+   "min_boundary_lp_feasible": 32.0,
+   "initial_T_b30_probe": 12,
+   "initial_last_reason_b30": null,
+   "initial_T_restore_probe": 12
+  },
+  {
+   "family": "stage1_template",
+   "geometry": "N_x1p5",
+   "queue_sizes": [
+    12,
+    10,
+    10
+   ],
+   "N": 32,
+   "Q": 3,
+   "M": 35,
+   "chain_margin_b30": -0.02,
+   "necessary_condition_b30": false,
+   "lp_feasible_b30": false,
+   "chain_margin_at_restore": 3.98,
+   "min_boundary_lp_feasible": 32.0,
+   "initial_T_b30_probe": 12,
+   "initial_last_reason_b30": null,
+   "initial_T_restore_probe": 12
+  },
+  {
+   "family": "stage1_template",
+   "geometry": "N_x2",
+   "queue_sizes": [
+    16,
+    14,
+    14
+   ],
+   "N": 44,
+   "Q": 3,
+   "M": 47,
+   "chain_margin_b30": -9.02,
+   "necessary_condition_b30": false,
+   "lp_feasible_b30": false,
+   "chain_margin_at_restore": 2.98,
+   "min_boundary_lp_feasible": 36.0,
+   "initial_T_b30_probe": 12,
+   "initial_last_reason_b30": null,
+   "initial_T_restore_probe": 12
+  },
+  {
+   "family": "stage1_template",
+   "geometry": "N_x3",
+   "queue_sizes": [
+    24,
+    21,
+    21
+   ],
+   "N": 66,
+   "Q": 3,
+   "M": 69,
+   "chain_margin_b30": -28.52,
+   "necessary_condition_b30": false,
+   "lp_feasible_b30": false,
+   "chain_margin_at_restore": 3.48,
+   "min_boundary_lp_feasible": 46.0,
+   "initial_T_b30_probe": 12,
+   "initial_last_reason_b30": null,
+   "initial_T_restore_probe": 12
+  }
+ ],
+ "closed_form_agrees_with_lp_b30": true
+}

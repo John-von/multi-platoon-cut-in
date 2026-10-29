@@ -1,0 +1,79 @@
+{
+  "adapters": {},
+  "cell": {
+    "boundary": 30,
+    "corner": "nominal",
+    "ell": 1000,
+    "f": 0.5,
+    "gap": 10.5,
+    "s": 1,
+    "seed": null,
+    "variant": "V0"
+  },
+  "cfg": {
+    "acc_bound": 0.001,
+    "boundary": 30,
+    "delay_schedule_s": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "disturbance_fraction": 0.5,
+    "durations": [
+      12,
+      14,
+      16,
+      18,
+      20,
+      22,
+      24,
+      26,
+      28,
+      30,
+      34
+    ],
+    "execution": "replay",
+    "initial_gap": 10.5,
+    "mass_scale": 1.0,
+    "max_attempts": 3,
+    "request_time": 5.0,
+    "tau_scale": 1.0,
+    "time_sim": 50,
+    "torque_bound": 0.00015,
+    "v20": {
+      "activation_latency": [
+        30,
+        20
+      ],
+      "condition_s": true,
+      "containment_gate": false,
+      "enabled": true,
+      "init_refine": true,
+      "jerk_mode": "window",
+      "jerk_window": 10,
+      "lateral_soft": true,
+      "meas_eps": [
+        1.0,
+        0.05,
+        0.07936046512089304
+      ],
+      "replan_mode": "handover"
+    }
+  },
+  "cfg_sha256": "e6286b7bc49cc80c80e86f49d1f8c9873a348dbfd16f25e985db1ad6891befd1",
+  "family": "noise_scan",
+  "id": "noise_ell_1000",
+  "method": "A-H",
+  "note": null,
+  "run_key": "04ecab3db891715f40baa598195d1077bb2b2ecabbfea50d072af56524559cbf",
+  "runner": "handover",
+  "theory_covered": true,
+  "workers": 1
+}
